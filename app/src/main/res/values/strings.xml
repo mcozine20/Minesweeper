@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="btn_restart">Restart</string>
+    <string name="btn_place_flag">Place Flag</string>
+    <string name="btn_large">Large</string>
+    <string name="btn_small">Small</string>
+    <string name="btn_medium">Medium</string>
+    <string name="place_flag_msg">Place a flag</string>
+    <string name="win_msg">You win!</string>
+    <string name="wrong_flag_msg">That was not a bomb. You lose!</string>
+    <string name="hit_bomb_msg">You hit a bomb! You lose!</string>
+</resources>
